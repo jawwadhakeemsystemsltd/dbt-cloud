@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+ - name: stripe0605
+   database: raw0605
+   schema: stripe0605
+   tables:
+     - name: payment

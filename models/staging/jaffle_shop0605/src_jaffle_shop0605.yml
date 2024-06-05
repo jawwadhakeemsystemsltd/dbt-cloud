@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: jaffle_shop0605
+    database: raw0605
+    schema: jaffle_shop0605
+    tables:
+      - name: customers
+      - name: orders

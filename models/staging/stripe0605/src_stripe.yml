@@ -1,7 +1,7 @@
 version: 2
 
 sources:
- - name: stripe0605
+ - name: stripe
    database: raw0605
    schema: stripe0605
    tables:
